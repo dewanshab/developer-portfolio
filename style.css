@@ -44,3 +44,18 @@ section {
 .DUSTO {
     color: green;
 }
+
+.shafiq {
+    width: 100%;
+    padding-left: 5%;
+}
+
+.mashbiba {
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+
+footer p {
+    text-align: center;
+}
